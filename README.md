@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrimayAddisu&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrimayAddisu&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=girmiyadisu122542&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girmiyadisu122542&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimayAddisu&layout=compact&theme=radical" />
 </p>
 
@@ -46,7 +46,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GrimayAddisu&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=girmiyadisu122542&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -54,8 +54,8 @@
 ### 📌 Pinned Projects
 
 <!-- Replace with your real pinned repo names -->
-[Admission & Alumni Management System](https://github.com/GrimayAddisu/admission-alumni-system)  
-[Research Document Repository](https://github.com/GrimayAddisu/research-repo)
+[Admission & Alumni Management System](https://github.com/girmiyadisu122542/admission-alumni-system)  
+[Research Document Repository](https://github.com/girmiyadisu122542/research-repo)
 
 ---
 
