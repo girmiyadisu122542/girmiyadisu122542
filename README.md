@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=girmiyadisu122542&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=girmiyadisu122542&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimayAddisu&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girmiyadisu122542&layout=compact&theme=radical" />
 </p>
 
 ---
