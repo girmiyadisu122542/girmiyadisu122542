@@ -68,7 +68,7 @@
 
 ### 📫 Let's Connect
 
-- 🌐 Website: [https://girmay-addisu-portfolio.vercel.app]([https://girmayaddisu.tech](https://girmay-addisu-portfolio.vercel.app)
+- 🌐 Website: [https://girmay-addisu-portfolio.vercel.app](https://girmay-addisu-portfolio.vercel.app)
 - 📧 Email: [girmay12ddisu@gmail.com](mailto:girmay12ddisu@gmail.com)
 - 💼 LinkedIn: [Girmay Addisu](https://bit.ly/48GV2Cp)
 
